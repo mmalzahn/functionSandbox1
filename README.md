@@ -1,2 +1,2 @@
 # functionSandbox1
-Sandboxfunktion fÃ¼r POCs
+Sandboxfunktion für POCs
